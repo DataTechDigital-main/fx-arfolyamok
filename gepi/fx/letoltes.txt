@@ -1,10 +1,9 @@
-Utolsó futás: 2026-11-19 08:46 UTC (forrás: Dukascopy BID)
-OK   EURHUF 15m: fájl 20405→25565 sor
-OK   EURHUF 1h: fájl 5102→6392 sor
-OK   EURHUF 1d: fájl 342→428 sor
-     EURHUF: 120 lezárt nap + 0 mai perc; utolsó 2026-07-10 20:59 UTC close 354.106; visszatöltve eddig: 2026-07-10
-FÉLBE USDHUF: megszakadt (2026-06-01: RuntimeError: https://datafeed.dukascopy.com/datafeed/USDHUF/2026/05/01/BID_candles_min_1.bi5: 5 próbálkozás után sem sikerült); 80 nap megvan, a következő futás folytatja
-OK   USDHUF 15m: fájl 29989→34917 sor
-OK   USDHUF 1h: fájl 7499→8731 sor
-OK   USDHUF 1d: fájl 412→480 sor
-     USDHUF: 80 lezárt nap + 0 mai perc; utolsó 2026-05-31 23:59 UTC close 303.682; visszatöltve eddig: 2026-05-31
+Utolsó futás: 2026-11-20 12:53 UTC (forrás: Dukascopy BID)
+OK   EURHUF 15m: fájl 25565→30665 sor
+OK   EURHUF 1h: fájl 6392→7667 sor
+OK   EURHUF 1d: fájl 428→513 sor
+     EURHUF: 120 lezárt nap + 0 mai perc; utolsó 2026-11-06 21:59 UTC close 363.249; visszatöltve eddig: 2026-11-07
+OK   USDHUF 15m: fájl 34917→42485 sor
+OK   USDHUF 1h: fájl 8731→10623 sor
+OK   USDHUF 1d: fájl 480→583 sor
+     USDHUF: 120 lezárt nap + 0 mai perc; utolsó 2026-09-28 23:59 UTC close 322.705; visszatöltve eddig: 2026-09-28
