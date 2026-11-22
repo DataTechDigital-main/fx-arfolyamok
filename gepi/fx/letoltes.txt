@@ -1,4 +1,4 @@
-Utolsó futás: 2026-11-22 06:40 UTC (forrás: Dukascopy BID)
+Utolsó futás: 2026-11-22 15:15 UTC (forrás: Dukascopy BID)
 OK   EURHUF 15m: fájl 31265→31265 sor
 OK   EURHUF 1h: fájl 7817→7817 sor
 OK   EURHUF 1d: fájl 523→523 sor
