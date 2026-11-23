@@ -1,9 +1,9 @@
-Utolsó futás: 2026-11-23 01:38 UTC (forrás: Dukascopy BID)
-OK   EURHUF 15m: fájl 31265→31265 sor
-OK   EURHUF 1h: fájl 7817→7817 sor
-OK   EURHUF 1d: fájl 523→523 sor
-     EURHUF: nincs új adat
-OK   USDHUF 15m: fájl 45909→45917 sor
-OK   USDHUF 1h: fájl 11479→11481 sor
-OK   USDHUF 1d: fájl 629→631 sor
-     USDHUF: 1 lezárt nap + 60 mai perc; utolsó 2026-11-23 00:59 UTC close 339.407; visszatöltve eddig: 2026-11-22
+Utolsó futás: 2026-11-23 10:41 UTC (forrás: Dukascopy BID)
+OK   EURHUF 15m: fájl 31265→31277 sor
+OK   EURHUF 1h: fájl 7817→7820 sor
+OK   EURHUF 1d: fájl 523→524 sor
+     EURHUF: 0 lezárt nap + 180 mai perc; utolsó 2026-11-23 09:59 UTC close 372.307; visszatöltve eddig: 2026-11-22
+OK   USDHUF 15m: fájl 45917→45953 sor
+OK   USDHUF 1h: fájl 11481→11490 sor
+OK   USDHUF 1d: fájl 631→631 sor
+     USDHUF: 0 lezárt nap + 600 mai perc; utolsó 2026-11-23 09:59 UTC close 339.289; visszatöltve eddig: 2026-11-22
