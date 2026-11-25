@@ -1,6 +1,9 @@
-Utolsó futás: 2026-11-25 12:46 UTC (forrás: Dukascopy BID)
-HIBA EURHUF: RuntimeError: https://datafeed.dukascopy.com/datafeed/EURHUF/2026/10/25/01h_ticks.bi5: 5 próbálkozás után sem sikerült
-OK   USDHUF 15m: fájl 46101→46137 sor
-OK   USDHUF 1h: fájl 11527→11536 sor
+Utolsó futás: 2026-11-25 22:28 UTC (forrás: Dukascopy BID)
+OK   EURHUF 15m: fájl 31385→31445 sor
+OK   EURHUF 1h: fájl 7847→7862 sor
+OK   EURHUF 1d: fájl 525→526 sor
+     EURHUF: 0 lezárt nap + 900 mai perc; utolsó 2026-11-25 21:59 UTC close 371.809; visszatöltve eddig: 2026-11-24
+OK   USDHUF 15m: fájl 46137→46173 sor
+OK   USDHUF 1h: fájl 11536→11545 sor
 OK   USDHUF 1d: fájl 633→633 sor
-     USDHUF: 0 lezárt nap + 720 mai perc; utolsó 2026-11-25 11:59 UTC close 341.558; visszatöltve eddig: 2026-11-24
+     USDHUF: 0 lezárt nap + 1260 mai perc; utolsó 2026-11-25 20:59 UTC close 338.854; visszatöltve eddig: 2026-11-24
